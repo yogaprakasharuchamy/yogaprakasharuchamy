@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogaprakasharuchamy
+- 👋 Hi, I’m @yogaprakash
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning full stack
 - linkedin https://www.linkedin.com/in/yogaprakash-a-45b9b725b
